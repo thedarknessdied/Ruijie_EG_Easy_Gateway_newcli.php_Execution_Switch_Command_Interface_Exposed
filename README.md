@@ -1,0 +1,2 @@
+# Ruijie_EG_Easy_Gateway_newcli.php_Execution_Switch_Command_Interface_Exposed
+锐捷EG易网关newcli.php执行交换机命令接口暴露
